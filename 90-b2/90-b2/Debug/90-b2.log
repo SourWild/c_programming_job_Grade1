@@ -1,0 +1,7 @@
+﻿  90-b2-base.cpp
+G:\90-b2\90-b2\90-b2-base.cpp(458,29): warning C4244: “参数”: 从“double”转换到“std::streamsize”，可能丢失数据
+G:\90-b2\90-b2\90-b2-base.cpp(485,30): warning C4244: “参数”: 从“double”转换到“std::streamsize”，可能丢失数据
+G:\90-b2\90-b2\90-b2-base.cpp(504,30): warning C4244: “参数”: 从“double”转换到“std::streamsize”，可能丢失数据
+  90-b2-tools.cpp
+  正在生成代码...
+  90-b2.vcxproj -> G:\90-b2\Debug\90-b2.exe
